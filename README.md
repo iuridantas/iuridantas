@@ -14,7 +14,7 @@
   <img align="center" height="30" width="40" alt="react" src="https://icons8.com/icon/bzf0DqjXFHIW/react" />
     <img align="center" height="30" width="40" alt="html5" src="https://icons8.com/icon/owWiEaAJmGKK/html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page" />
   <img align="center" height="30" width="40" alt="css" src="https://icons8.com/icon/21278/css3" />
-  <img align="center" height="30" width="40" alt="docker" src="https://icons8.com/icon/cdYUlRaag9G9/docker" />
+  <img align="center" height="30" width="40" alt="docker" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
   <img align="center" height="30" width="40" alt="prisma" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" />
     <img align="center" height="30" width="40" alt="mongoDB" src="https://icons8.com/icon/74402/mongodb" />
     <img align="center" height="30" width="40" alt="nodejs" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" />
