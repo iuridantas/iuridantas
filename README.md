@@ -9,16 +9,16 @@
  <br>
 <div  align="center"> 
 <div>
-<img align="center" height="30" width="40" alt="typescript" src="https://icons8.com/icon/wpZmKzk11AzJ/typescript" />
-  <img align="center" height="30" width="40" alt="javascript" src="https://icons8.com/icon/108784/javascript" />
-  <img align="center" height="30" width="40" alt="react" src="https://icons8.com/icon/bzf0DqjXFHIW/react" />
-    <img align="center" height="30" width="40" alt="html5" src="https://icons8.com/icon/owWiEaAJmGKK/html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page" />
-  <img align="center" height="30" width="40" alt="css" src="https://icons8.com/icon/21278/css3" />
-  <img align="center" height="30" width="40" alt="docker" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
-  <img align="center" height="30" width="40" alt="prisma" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" />
-    <img align="center" height="30" width="40" alt="mongoDB" src="https://icons8.com/icon/74402/mongodb" />
-    <img align="center" height="30" width="40" alt="nodejs" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" />
-        <img align="center" height="30" width="40" alt="nest" src="https://icons8.com/icon/9ESZMOeUioJS/nestjs" />
+    <img align="center" height="30" width="40" alt="typescript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+    <img align="center" height="30" width="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+    <img align="center" height="30" width="40" alt="react" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" />
+    <img align="center" height="30" width="40" alt="html5" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+    <img align="center" height="30" width="40" alt="css" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+    <img align="center" height="30" width="40" alt="docker" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
+    <img align="center" height="30" width="40" alt="prisma" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" />
+    <img align="center" height="30" width="40" alt="mongoDB" src="https://user-images.githubusercontent.com/11978772/40430921-73d53922-5e63-11e8-8dcd-1662136c3212.png" />
+    <img align="center" height="30" width="40" alt="nodejs" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
+    <img align="center" height="30" width="40" alt="nest" src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png" />
   </div>
 <br>
   <div  align="center">   
