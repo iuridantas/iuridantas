@@ -16,7 +16,7 @@
 
 ## 🛠️Ferramentas de desenvolvimento
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,vscode,figma,git," />
   </a>
@@ -32,7 +32,7 @@
 
 ### 📱 Minhas redes:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/iurimota" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
