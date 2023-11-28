@@ -1,30 +1,41 @@
-<h1> Hi! My name is Iuri Dantas! </h1>
-<div>
-    <a href="https://github.com/iuridantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuridantas&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridantas&layout=compact&theme=dracula"/>
-</div>
- <br>
-<div  align="center"> 
-<div>
-        <img align="center" height="40" width="40" alt="typescript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-    <img align="center" height="40" width="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-    <img align="center" height="40" width="40" alt="react" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" />
-    <img align="center" height="40" width="40" alt="html5" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
-    <img align="center" height="40" width="40" alt="css" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
-    <img align="center" height="40" width="40" alt="docker" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
-    <img align="center" height="40" width="40" alt="prisma" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" />
-    <img align="center" height="40" width="40" alt="mongoDB" src="https://user-images.githubusercontent.com/11978772/40430921-73d53922-5e63-11e8-8dcd-1662136c3212.png" />
-    <img align="center" height="40" width="40" alt="nodejs" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
-    <img align="center" height="40" width="40" alt="nest" src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png" />
-  </div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+## 🖖 Olá, meu nome é <strong>Iuri Dantas!</strong>
+<h3> Sou um apaixonado por programação e tecnologia!</h3>
+
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formação em **Full Stack** pela <a href="https://www.blueedtechcursos.com">Blue EdTech</a>.
+
+## 🚀 Minhas Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,prisma,mongodb,nodejs,nestjs," />
+  </a>
+</p>
+
+## 🛠️Ferramentas de desenvolvimento
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,vscode,figma,git," />
+  </a>
+</p>
+
+### 📊 Estatísticas
+
+<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridantas&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
 <br>
-  <div  align="center">   
-  <a href="https://www.instagram.com/iuri.dantass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/iurimota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-</br>
-</div>
 
-![snake gif](https://github.com/iuridantas/iuridantas/blob/output/github-contribution-grid-snake.gif)
+### 📱 Minhas redes:
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/iurimota" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+  <a href="https://www.instagram.com/iuri.dantass" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
+</p>
